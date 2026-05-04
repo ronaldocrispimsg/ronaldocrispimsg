@@ -2,7 +2,7 @@
 
 🎓 Estudante de **Sistemas de Informação (6º período)**  
 💻 Interesse em **Desenvolvimento de Software, Infraestrutura e Redes**  
-Buscando **estágio ou vaga júnior em TI**
+📋 Buscando **estágio ou vaga júnior em TI**
 
 ## Sobre mim
 - Boa base em **programação**
@@ -10,7 +10,6 @@ Buscando **estágio ou vaga júnior em TI**
 - Boa base em **Administração de Redes**
 - Noções de **Sistemas Distribuídos**
 - Experiência com **ambientes virtuais (venv)**
-- Banco de dados **Relacionais (MySQL, PostgreSQL)**
 
 ## Tecnologias e Ferramentas
 
