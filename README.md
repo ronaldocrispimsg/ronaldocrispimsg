@@ -37,6 +37,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-## 📫 Contato
-- 💼 LinkedIn: https://www.linkedin.com/in/ronaldo-crispim-33a0713a7/
-- 📧 Email: ronaldocrispim.13@gmail.com
+## Contato
+- LinkedIn: https://www.linkedin.com/in/ronaldo-crispim-33a0713a7/
+- Email: ronaldocrispim.13@gmail.com
