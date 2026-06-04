@@ -1,15 +1,12 @@
 # Meu nome é Ronaldo Crispim
 
-🎓 Estudante de **Sistemas de Informação (6º período)**  
+🎓 Estudante de **Sistemas de Informação (6º período) no Instituto Federal do Norte de Minas Gerais - Campus Januaria**  
 💻 Interesse em **Desenvolvimento de Software, Infraestrutura e Redes**  
-📋 Buscando **estágio ou vaga júnior em TI**
 
 ## Sobre mim
-- Boa base em **programação**
-- Boa base em **Redes de Computadores**
-- Boa base em **Administração de Redes**
+- Boa base em **Programação, Redes de Computadores e Administração de Redes**
 - Noções de **Sistemas Distribuídos**
-- Experiência com **ambientes virtuais (venv)**
+- Experiência com **ambientes virtuais**
 
 ## Tecnologias e Ferramentas
 
