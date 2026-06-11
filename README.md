@@ -6,23 +6,23 @@
 ## Sobre mim
 - Boa base em **Programação, Redes de Computadores e Administração de Redes**
 - Noções de **Sistemas Distribuídos**
-- Experiência com **ambientes virtuais**
+- Experiência com **Ambientes Virtuais**
 
 ## Tecnologias e Ferramentas
 
-### Linguagens (nível de domínio)
-- **GoLang** – principal linguagem
+### Linguagens 
 - **Python**
-- **Java**
+- **C**
+- **JavaScript**
 
 ## Outras tecnologias
 
 ### Banco de Dados
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Backend / APIs
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![HTTPX](https://img.shields.io/badge/HTTPX-000000?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### Mensageria / EDA
