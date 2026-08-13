@@ -21,5 +21,5 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ## Contato
-- LinkedIn: [https://www.linkedin.com/in/ronaldo-crispim-33a0713a7/](https://www.linkedin.com/in/ronaldo-crispim-33a0713a7/)
+- LinkedIn: [https://www.linkedin.com/in/ronaldocrispimsg/](https://www.linkedin.com/in/ronaldocrispimsg/)
 - Email: [ronaldocrispim.13@gmail.com](mailto:ronaldocrispim.13@gmail.com)
