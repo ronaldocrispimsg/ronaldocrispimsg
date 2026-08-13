@@ -1,12 +1,9 @@
-# Meu nome é Ronaldo Crispim
+# Sobre Mim
 
-🎓 Estudante de **Sistemas de Informação (7º período) no Instituto Federal do Norte de Minas Gerais - Campus Januaria**  
-💻 Interesse em **Análise e Infraestrutura de Redes**  
+## Ronaldo Crispim
+Estudante de `Sistemas de Informação (7º período) no Instituto Federal do Norte de Minas Gerais - Campus Januaria`  
+Interesse em `Análise e Infraestrutura de Redes`  
 
-## Sobre mim
-- Tenho base sólida em **Programação, Redes de Computadores e Administração de Redes**
-- Possuo conhecimento e vivência em ambientes Linux e rotinas de suporte/infraestrutura.
-- Experiência com **Ambientes Virtuais**
 ##
 [![My Skills](https://skillicons.dev/icons?i=windows,linux,bash,vscode,py,c,html,css,js,postgres,sqlite,fastapi,rabbitmq,docker,git&theme=light)](#)
 
