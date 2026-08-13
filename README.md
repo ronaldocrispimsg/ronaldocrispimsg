@@ -1,8 +1,8 @@
 # Sobre Mim
 
 ## Ronaldo Crispim
-**Estudante de Sistemas de Informação ** ` Instituto Federal do Norte de Minas Gerais / IFNMG `  
-**Aspirante** a `Analista de Redes e Infraestrutura`  
+**Estudante de Sistemas de Informação** ` Instituto Federal do Norte de Minas Gerais / IFNMG `  
+**Aspirante a** `Analista de Redes e Infraestrutura`  
 
 ##
 [![My Skills](https://skillicons.dev/icons?i=windows,linux,bash,vscode,py,c,html,css,js,postgres,sqlite,fastapi,rabbitmq,docker,git&theme=light)](#)
