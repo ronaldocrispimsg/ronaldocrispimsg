@@ -5,7 +5,7 @@
 **Estudante de Sistemas de Informação** ` Instituto Federal do Norte de Minas Gerais / IFNMG `  
 **Aspirante a** `Analista de Redes e Infraestrutura`  
 
-## Trilha **CCST** Técnico em Redes
+## **CCST** Técnico em Redes
 <!--START_SECTION:badges-->
 <a href="https://www.credly.com/users/ronaldocrispimsg" title=""><img src="" alt=""></a>
 <a href="https://www.credly.com/users/ronaldocrispimsg" title=""><img src="" alt=""></a>
@@ -13,7 +13,7 @@
 <a href="https://www.credly.com/users/ronaldocrispimsg" title=""><img src="" alt=""></a>
 <a href="https://www.credly.com/users/ronaldocrispimsg" title=""><img src="" alt=""></a>
 <!--END_SECTION:badges-->
-## Trilha **CCST** Analista de Cibersegurança Júnior
+## **CCST** Analista de Cibersegurança Júnior
 <!--START_SECTION:badges-->
 <a href="https://www.credly.com/users/ronaldocrispimsg" title=""><img src="" alt=""></a>
 <a href="https://www.credly.com/users/ronaldocrispimsg" title=""><img src="" alt=""></a>
