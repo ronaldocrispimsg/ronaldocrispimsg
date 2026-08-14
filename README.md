@@ -31,6 +31,6 @@
   <img src="https://github.com/ronaldocrispimsg/ronaldocrispimsg/blob/main/gifs/seriously.gif" alt="Seriously GIF">
 </p>
 
-<p align="center">
+<p2 align="center">
   <img src="https://github.com/ronaldocrispimsg/ronaldocrispimsg/blob/main/gifs/monkey.gif" alt="Monkey GIF">
-</p>
+</p2>
