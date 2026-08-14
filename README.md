@@ -28,9 +28,5 @@
 [![My Skills](https://skillicons.dev/icons?i=windows,linux,bash,vscode,py,c,html,css,js,postgres,sqlite,fastapi,rabbitmq,docker,git&theme=light)](#)
 
 <p align="center">
-  <img src="https://github.com/ronaldocrispimsg/ronaldocrispimsg/blob/main/gifs/seriously.gif" alt="Seriously GIF">
-</p>
-
-<p2 align="center">
   <img src="https://github.com/ronaldocrispimsg/ronaldocrispimsg/blob/main/gifs/monkey.gif" alt="Monkey GIF">
-</p2>
+</p>
