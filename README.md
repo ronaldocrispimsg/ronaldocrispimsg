@@ -7,7 +7,7 @@
 
 ## **CCST** Técnico em Redes
 <!--START_SECTION:badges-->
-<a href="https://www.credly.com/users/ronaldocrispimsg" title="Networking Basics"><img src="https://images.credly.com/size/340x340/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" alt="Networking Basics"></a>
+<a href="https://www.credly.com/users/ronaldocrispimsg" title="Networking Basics"><img src="https://images.credly.com/size/90x90/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" alt="Networking Basics"></a>
 <a href="https://www.credly.com/users/ronaldocrispimsg" title="Networking Devices and Initial Configuration"><img src="" alt="Networking Devices and Initial Configuration"></a>
 <a href="https://www.credly.com/users/ronaldocrispimsg" title="Network Addressing and Basic Troubleshooting"><img src="" alt="Network Addressing and Basic Troubleshooting"></a>
 <a href="https://www.credly.com/users/ronaldocrispimsg" title="Network Support and Security"><img src="" alt="Network Support and Security"></a>
@@ -16,7 +16,7 @@
 ## **CCST** Analista de Cibersegurança Júnior
 <!--START_SECTION:badges-->
 <a href="https://www.credly.com/users/ronaldocrispimsg" title="Introduction to Cybersecurity"><img src="" alt="Introduction to Cybersecurity"></a>
-<a href="https://www.credly.com/users/ronaldocrispimsg" title="Networking Basics"><img src="https://images.credly.com/size/340x340/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" alt="Networking Basics"></a>
+<a href="https://www.credly.com/users/ronaldocrispimsg" title="Networking Basics"><img src="https://images.credly.com/size/90x90/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" alt="Networking Basics"></a>
 <a href="https://www.credly.com/users/ronaldocrispimsg" title="Networking Devices and Initial Configuration"><img src="" alt="Networking Devices and Initial Configuration"></a>
 <a href="https://www.credly.com/users/ronaldocrispimsg" title="Endpoint Security"><img src="" alt="Endpoint Security"></a>
 <a href="https://www.credly.com/users/ronaldocrispimsg" title="Network Defense"><img src="" alt="Network Defense"></a>
