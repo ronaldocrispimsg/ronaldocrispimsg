@@ -15,7 +15,7 @@
 <!--END_SECTION:badges-->
 ## **CCST** Analista de Cibersegurança Júnior
 <!--START_SECTION:badges-->
-<a href="https://www.credly.com/users/ronaldocrispimsg" title=""><img src="" alt=""></a>
+<a href="https://www.credly.com/users/ronaldocrispimsg" title="Introduction to Cybersecurity"><img src="" alt="Introduction to Cybersecurity"></a>
 <a href="https://www.credly.com/users/ronaldocrispimsg" title="Networking Basics"><img src="" alt="Networking Basics"></a>
 <a href="https://www.credly.com/users/ronaldocrispimsg" title="Networking Devices and Initial Configuration"><img src="" alt="Networking Devices and Initial Configuration"></a>
 <a href="https://www.credly.com/users/ronaldocrispimsg" title="Endpoint Security"><img src="" alt="Endpoint Security"></a>
