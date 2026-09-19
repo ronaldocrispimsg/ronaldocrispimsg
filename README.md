@@ -3,7 +3,7 @@
 [![image](https://img.shields.io/static/v1?label=&message=LATTES&color=1c4428&logo=Letterboxd&style=for-the-badge&logoColor=white)](http://lattes.cnpq.br/9209577575643618)
 
 **Estudante de Sistemas de Informação** ` Instituto Federal do Norte de Minas Gerais / IFNMG `  
-**Aspirante a** `Analista de Redes e Infraestrutura`  
+**Aspirante a** `Analista de Redes e Cibersegurança`  
 
 ## **CCST** Técnico em Redes
 <!--START_SECTION:badges-->
