@@ -1,11 +1,17 @@
- <h1 align="center">Meu nome é Ronaldo Crispim</h1>
+<h1 align="center">Meu nome é Ronaldo Crispim</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1E8293&center=true&vCenter=true&width=850&lines=Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o+%7C+IFNMG;Especializando+em+Redes+e+Seguran%C3%A7a" alt="Apresentação" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=339933&center=true&vCenter=true&width=800&lines=Desenvolvedor+Full+Stack;Infraestrutura+Linux+%2B+Docker" alt="Subapresentação" />
-</p>
-
-
+<table align="center">
+  <tr>
+    <td align="center" valign="middle">
+      <img src="./gifs/monkey.gif" width="250" alt="Monkey GIF" />
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=1E8293&center=true&vCenter=true&width=520&lines=Ol%C3%A1%2C+mundo%21+Eu+sou+o+Ronaldo;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o+%7C+IFNMG;Especializando+em+Redes+e+Seguran%C3%A7a" alt="Apresentação" />
+      <br />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=339933&center=true&vCenter=true&width=520&lines=%24+sudo+apt+install+conhecimento;%24+docker+run+-d+full-stack;%24+nmap+-sV+meu-futuro;%24+git+commit+-m+%22evoluindo%22;" alt="Comandos" />
+    </td>
+  </tr>
+</table>
 
 ## Tech Stack
 
@@ -21,7 +27,6 @@
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
   <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
 </p>
-
 
 ## GitHub Statistics
 
@@ -108,8 +113,6 @@ Previsão de conclusão: 2028.
   </a>
 </p>
 
-
-
 ## Entre em contato
 
 <p align="left">
@@ -123,5 +126,3 @@ Previsão de conclusão: 2028.
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-
----
