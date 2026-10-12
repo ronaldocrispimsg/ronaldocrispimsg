@@ -13,7 +13,7 @@
   </tr>
 </table>
 
-## Tech Stack
+## Pilha Tecnológica
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
 </p>
 
-## GitHub Statistics
+## Estatísticas GitHub
 
 <table align="center">
   <tr>
