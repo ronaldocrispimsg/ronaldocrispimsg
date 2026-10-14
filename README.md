@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,html,css,js,postgres,mysql,sqlite,postman,linux,docker,aws,rabbitmq,git,vscode&theme=dark" alt="Tecnologias e ferramentas" />
+    <img src="https://skillicons.dev/icons?i=python,html,css,js,postgres,mysql,sqlite,postman,linux,docker,aws,rabbitmq,nginx,git,vscode&theme=dark" alt="Tecnologias e ferramentas" />
   </a>
 </p>
 
