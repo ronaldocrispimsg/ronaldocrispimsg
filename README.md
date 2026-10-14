@@ -8,7 +8,7 @@
     <td align="center" valign="middle">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=1E8293&center=true&vCenter=true&width=520&lines=Ol%C3%A1%2C+mundo%21+Eu+sou+o+Ronaldo;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o+%7C+IFNMG" alt="Apresentação" />
       <br />
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=339933&center=true&vCenter=true&width=520&lines=%24+sudo+apt+install+conhecimento;%24+docker+run+-d+full-stack" alt="Comandos" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=339933&center=true&vCenter=true&width=520&lines=%24+sudo+apt+install+conhecimento;%24+docker+run+-d+backend-stack" alt="Comandos" />
     </td>
   </tr>
 </table>
@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,html,css,js,postgres,mysql,sqlite,postman,linux,docker,aws,rabbitmq,nginx,git,vscode&theme=dark" alt="Tecnologias e ferramentas" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,postgres,mysql,postman,linux,docker,aws,rabbitmq,nginx,git&theme=dark" alt="Tecnologias e ferramentas" />
   </a>
 </p>
 
