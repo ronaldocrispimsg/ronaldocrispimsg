@@ -41,7 +41,7 @@
 
 ---
 
-## Formações e Certificações
+## Formações
 
 ### Bacharelado em Sistemas de Informação
 
