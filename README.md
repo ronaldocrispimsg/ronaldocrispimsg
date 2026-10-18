@@ -51,12 +51,6 @@ Previsão de conclusão: 2028.
 
 ---
 
-<p align="left">
-  <a href="https://www.credly.com/users/ronaldocrispimsg">
-    <img src="https://img.shields.io/badge/Credly-Ver_certifica%C3%A7%C3%B5es-orange?style=for-the-badge&logo=credly&logoColor=white" alt="Ver certificações na Credly" />
-  </a>
-</p>
-
 ## Entre em contato
 
 <p align="left">
