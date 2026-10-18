@@ -17,12 +17,11 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,postgres,postman,linux,docker,aws,rabbitmq,nginx,git&theme=dark" alt="Tecnologias e ferramentas" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,postgres,postman,linux,docker,aws,rabbitmq,nginx,kubernetes,git&theme=dark" alt="Tecnologias e ferramentas" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
   <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
 </p>
