@@ -34,7 +34,7 @@
       <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ronaldocrispimsg&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ronaldocrispimsg&layout=compact&theme=dark&hide_border=true&langs_count=7" alt="Linguagens mais usadas" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ronaldocrispimsg&hide=html,css&layout=compact&theme=dark&hide_border=true&langs_count=7" alt="Linguagens mais usadas" />
     </td>
   </tr>
 </table>
