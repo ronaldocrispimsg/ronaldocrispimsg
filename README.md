@@ -40,7 +40,7 @@
           <td align="center">
             <br />
             <b>Backend e Dados</b><br /><br />
-            <img src="https://skillicons.dev/icons?i=nodejs,express,postgres&theme=dark" alt="Backend e Dados" />
+            <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,py,fastapi,nginx&perline=3&theme=dark" alt="Backend e Dados" />
             <br /><br />
           </td>
         </tr>
