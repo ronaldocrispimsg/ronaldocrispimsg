@@ -17,27 +17,22 @@
 
 ### Frontend
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js&theme=dark" alt="HTML, CSS e JavaScript" />
+  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Frontend" />
 </p>
 
 ### Backend e Dados
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,api,py,fastapi,postgres&theme=dark" alt="Node.js, Express.js, REST API, Python, FastAPI e PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=java,spring,py,fastapi,postgres&theme=dark" alt="Backend e Dados" />
 </p>
 
-### Cloud, DevOps e Infraestrutura
+### Cloud e Infraestrutura
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,terraform,docker,kubernetes,linux,nginx&theme=dark" alt="AWS, Terraform, Docker, Kubernetes, Linux e Nginx" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux&theme=dark" alt="Cloud e Infraestrutura" />
 </p>
 
-### Mensageria e Automação
+### Mensageria e Ferramentas
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=rabbitmq,n8n&theme=dark" alt="RabbitMQ e n8n" />
-</p>
-
-### Ferramentas
-<p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,postman&theme=dark" alt="Git e Postman" />
+  <img src="https://skillicons.dev/icons?i=rabbitmq,git,postman&theme=dark" alt="Mensageria e Ferramentas" />
 </p>
 
 ## Estatísticas GitHub
