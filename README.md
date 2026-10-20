@@ -22,7 +22,7 @@
 
 ### Backend e Dados
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,py,fastapi,postgres&theme=dark" alt="Backend e Dados" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres&theme=dark" alt="Backend e Dados" />
 </p>
 
 ### Cloud e Infraestrutura
