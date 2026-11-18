@@ -54,7 +54,7 @@
           <td align="center">
             <br />
             <b>Mensageria e Ferramentas</b><br /><br />
-            <img src="https://skillicons.dev/icons?i=rabbitmq,git,postman&theme=dark" alt="Mensageria e Ferramentas" />
+            <img src="https://skillicons.dev/icons?i=rabbitmq,git&theme=dark" alt="Mensageria e Ferramentas" />
             <br /><br />
           </td>
         </tr>
