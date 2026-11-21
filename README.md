@@ -1,5 +1,3 @@
-<h1 align="center">Meu nome é Ronaldo Crispim</h1>
-
 <table align="center">
   <tr>
     <td align="center" valign="middle">
@@ -18,7 +16,7 @@
 <table align="center">
   <tr>
     <th align="center" width="420"><h3>Formação</h3></th>
-    <th align="center"><h3>Pilha Tecnológica</h3></th>
+    <th align="center"><h3>Stack</h3></th>
   </tr>
   <tr>
     <td valign="middle" width="420">
@@ -65,23 +63,9 @@
 
 ---
 
-## Estatísticas GitHub
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ronaldocrispimsg&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ronaldocrispimsg&hide=mako,dockerfile,shell&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Linguagens mais usadas" />
-    </td>
-  </tr>
-</table>
-
----
-
 ## Entre em contato
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ronaldocrispimsg/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;<a href="mailto:ronaldocrispim.13@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;&nbsp;<a href="https://github.com/ronaldocrispimsg"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:ronaldocrispim.13@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/ronaldocrispimsg"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
